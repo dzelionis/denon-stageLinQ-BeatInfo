@@ -1,0 +1,15 @@
+bytebuffer
+webcolors
+requests
+websocket
+websocket-client
+rel
+mido
+scipy
+pandas
+termcolor
+pyparsing
+#pygame
+pyartnet==0.8.3
+netifaces
+zeroconf
